@@ -3,10 +3,10 @@
     "revision": 0,
     "rules": [
         {
-            "primary-output": "C:\\Users\\oleks\\source\\repos\\Mathfuncsdll\\x64\\Debug\\Myexecrefsdll\\Myexecrefsdll.obj",
+            "primary-output": "x64\\Debug\\Myexecrefsdll.obj",
             "outputs": [
-                "C:\\Users\\oleks\\source\\repos\\Mathfuncsdll\\x64\\Debug\\Myexecrefsdll\\Myexecrefsdll.cpp.obj.dt.module.json",
-                "C:\\Users\\oleks\\source\\repos\\Mathfuncsdll\\x64\\Debug\\Myexecrefsdll\\Myexecrefsdll.cpp.obj.dt.d.json"
+                "x64\\Debug\\Myexecrefsdll.cpp.obj.dt.module.json",
+                "x64\\Debug\\Myexecrefsdll.cpp.obj.dt.d.json"
             ],
             "requires": []
         }
