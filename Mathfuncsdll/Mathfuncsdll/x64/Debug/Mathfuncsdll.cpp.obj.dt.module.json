@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Mathfuncsdll\\x64\\Debug\\Mathfuncsdll.obj",
+            "outputs": [
+                "Mathfuncsdll\\x64\\Debug\\Mathfuncsdll.cpp.obj.dt.module.json",
+                "Mathfuncsdll\\x64\\Debug\\Mathfuncsdll.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

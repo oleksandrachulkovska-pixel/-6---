@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\oleks\\source\\repos\\Mathfuncsdll\\x64\\Debug\\Mathfuncsdll\\Mathfuncsdll.obj",
+            "outputs": [
+                "C:\\Users\\oleks\\source\\repos\\Mathfuncsdll\\x64\\Debug\\Mathfuncsdll\\Mathfuncsdll.cpp.obj.dt.module.json",
+                "C:\\Users\\oleks\\source\\repos\\Mathfuncsdll\\x64\\Debug\\Mathfuncsdll\\Mathfuncsdll.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
